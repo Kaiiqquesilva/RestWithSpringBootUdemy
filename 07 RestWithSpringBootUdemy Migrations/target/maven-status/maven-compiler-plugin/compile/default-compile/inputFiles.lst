@@ -1,0 +1,9 @@
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\data\model\Person.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\services\PersonServices.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\Startup.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\controller\PersonController.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\converter\DozerConverter.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\data\vo\v1\PersonVO.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\exception\ExceptionResponse.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\exception\ResourceNotFoundException.java
+C:\code\UdemySpringBoot\RestWithSpringBootUdemy\07 RestWithSpringBootUdemy Migrations\src\main\java\br\com\erudio\repository\PersonRepository.java

@@ -1,0 +1,9 @@
+br\com\erudio\data\model\Person.class
+br\com\erudio\controller\PersonController.class
+br\com\erudio\converter\DozerConverter.class
+br\com\erudio\repository\PersonRepository.class
+br\com\erudio\services\PersonServices.class
+br\com\erudio\exception\ExceptionResponse.class
+br\com\erudio\data\vo\v1\PersonVO.class
+br\com\erudio\exception\ResourceNotFoundException.class
+br\com\erudio\Startup.class
